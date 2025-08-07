@@ -1,4 +1,4 @@
-# 🧪 Discord Pokémon Botu
+#  Discord Pokémon Botu
 
 Discord için geliştirilmiş bu eğlenceli **Pokémon Savaş Botu**, kullanıcılara rastgele Pokémon (veya özel sınıflar: 🧙 Wizard, 🥋 Fighter, 🗡️ Assasin) vererek savaşma, geliştirme ve bilgi alma imkanı tanır!
 ---
@@ -14,7 +14,7 @@ Discord için geliştirilmiş bu eğlenceli **Pokémon Savaş Botu**, kullanıc�
 
 ---
 
-## 🧩 Özellikler
+## Özellikler
 
 | Özellik                  | Açıklama |
 |--------------------------|----------|
