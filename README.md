@@ -3,7 +3,7 @@
 Discord için geliştirilmiş bu eğlenceli **Pokémon Savaş Botu**, kullanıcılara rastgele Pokémon (veya özel sınıflar: 🧙 Wizard, 🥋 Fighter, 🗡️ Assasin) vererek savaşma, geliştirme ve bilgi alma imkanı tanır!
 ---
 
-## ⚔️ Oyun Özeti
+## ⚔ Oyun Özeti
 
 - `!go` komutuyla bir Pokémon (ya da özel sınıf) elde edin.
 - `!attack @kullanici` komutuyla savaşa girin.
@@ -28,7 +28,7 @@ Discord için geliştirilmiş bu eğlenceli **Pokémon Savaş Botu**, kullanıc�
 
 ---
 
-## 🚀 Kurulum
+##  Kurulum
 
 ```bash
 git clone https://github.com/yourusername/discord-pokemon-botu.git
