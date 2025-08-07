@@ -8,7 +8,7 @@ Discord için geliştirilmiş bu eğlenceli **Pokémon Savaş Botu**, kullanıc�
 - `!go` komutuyla bir Pokémon (ya da özel sınıf) elde edin.
 - `!attack @kullanici` komutuyla savaşa girin.
 - `!info` komutuyla Pokémon bilgilerinizi görüntüleyin.
-- `!feed komutuyla Pokemonunuzun sağlığını yenileye bilirsiniz.
+- `!feed` komutuyla Pokemonunuzun sağlığını yenileye bilirsiniz.
 - Her Pokémon’un kendine özel **güç** ve **sağlık** değerleri vardır.
 - Özel sınıfların özel saldırı mekanikleri vardır.
 
